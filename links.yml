@@ -1,0 +1,11 @@
+- name: Google
+  url: 
+  sub:
+  - name: Open
+    url: https://google.com
+  - name: Search for alma
+    url: https://www.google.com/search?q=alma&sxsrf=AJOqlzWu7etbaKGWz1zfT305HFs6bABFQg%3A1675616696152&source=hp&ei=uOHfY6P0BImLxc8Po6q1-A0&iflsig=AK50M_UAAAAAY9_vyC7jPUqUBIvF8N_ls6uocSR2U9Yp&ved=0ahUKEwijsMzP7v78AhWJRfEDHSNVDd8Q4dUDCAg&uact=5&oq=alma&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyCwguEK8BEMcBEIAEMgsILhCABBDHARCvATILCC4QgAQQxwEQrwEyBQgAEIAEMgUILhCABDIICC4QgAQQ1AIyCwguEIAEEMcBEK8BMgUILhCABDILCC4QgAQQxwEQrwE6CwguEIAEEMcBENEDUABY2AJg_wRoAHAAeACAAa4BiAGYBZIBAzAuNJgBAKABAQ&sclient=gws-wiz
+- name: Excel
+  url: https://excel.office.com
+- name: Word
+  url: https://word.office.com
